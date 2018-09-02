@@ -8,7 +8,7 @@
 For feature list check [Drone Base Firmware](https://github.com/MatthewPatyk/Drone-Base#features).
 
 ## Acknowledgments
-* App icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](www.flaticon.com).
+* App icon made by [Freepik](https://www.flaticon.com/authors/freepik) from www.flaticon.com.
 
 ## Author 
 * 2018, **Mateusz Patyk**, <matpatyk@gmail.com> 
